@@ -16,3 +16,11 @@ cd laravelApp
   2) Open the shell of laravel.test-1 (Image: sail-8.1/app:latest)
   3) Run ``` php artisan migrate ```
  
+## phpMyAdmin
+  1) Go to http://localhost:8001
+  2) Go to laravelApp -> Accounts
+  3) Insert
+  4) Give id: 1, name: Jan, saldo: 100 -> Press GO
+## Open the consumer
+  1) ```cd frontend ```
+  2) Open home.html
